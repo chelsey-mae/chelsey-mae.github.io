@@ -42,9 +42,13 @@ a:hover {
         color:gray;
         }
 
+#left_content,
+#right_content {
+    box-sizing: border-box;}
+
 #left_content {
         padding-top: 5%;
-        padding-bottom: 5%;
+        padding-left: 3%;
         float: left;
         width: 48.5%;
         background-color: white;
